@@ -27,6 +27,6 @@ I'm passionate about Full Stack Development and solving real-world problems thro
 
 ## 📫 Contact
 
-Email: your-email@gmail.com
+Email: chauhankavya9116@gmail.com
 
 Thanks for visiting my profile!
