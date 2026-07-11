@@ -31,6 +31,13 @@ I'm passionate about Full Stack Development and solving real-world problems thro
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,php,mysql,git,github,vscode" />
 </p>
 
+## 📊 GitHub Stats
+
+![Kavy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavy009&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kavy009&theme=tokyonight)
 
 ## 🌐 Connect With Me
 
