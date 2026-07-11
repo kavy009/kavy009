@@ -33,7 +33,7 @@ I'm passionate about Full Stack Development and solving real-world problems thro
 
 ## 📊 GitHub Stats
 
-![Kavy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavy009&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=kavy009&show_icons=true&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
